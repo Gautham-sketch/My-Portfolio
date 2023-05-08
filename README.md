@@ -1,1 +1,2 @@
-My name is Gautham.I am studying in class 10.
+Hey I'm Gautham Shyam.
+I'm a coder from Whitehatjr
